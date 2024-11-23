@@ -22,7 +22,7 @@ A real-time chat application with temporary message storage and image sharing ca
 1. Clone the repository:
 ```bash
 git clone https://github.com/faraasaaa/chat_app.git
-cd temp-chat-app
+cd chat_app
 ```
 
 2. Install dependencies:
